@@ -1,0 +1,10 @@
+{
+    "id": "user2",
+    "uid": "1003",
+    "gid": "5",
+    "shell": "/bin/bash",
+    "home": "/home/user2",
+    "comment": "i am user2",
+    "password": "redhatadmin143@",
+    "action": "create"
+}
